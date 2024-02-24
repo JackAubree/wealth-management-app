@@ -1,0 +1,4 @@
+/* baldini canvas is laid on top of background canvas so we can animate foam independently while waterfall remains */
+#baldini {
+    position: absolute;
+  }
