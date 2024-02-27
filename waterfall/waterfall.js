@@ -64,7 +64,7 @@ function animateFoam() {
 }
 // cycle thru foam images to create splashing sprite
 foam.src = foamStages[i];
-ctx.drawImage(foam, 60, 135, 90, 50);
+ctx.drawImage(foam, 60, 130, 90, 50);
 console.log('drawing' + ' ' + foam.src);
 i++;
 loopTimer = setTimeout(animateFoam,600);
