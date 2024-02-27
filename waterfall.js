@@ -18,7 +18,7 @@ var w1y1 = 20;
 var w1x2 = 110;
 var w1y2 = 20;
 var w1x = 110;
-var w1y = 40;
+var w1y = 60;
 
 // coordinates of Bezier curve 2 (second stream from right)
 var w2x1 = 50;
@@ -26,7 +26,7 @@ var w2y1 = 30;
 var w2x2 = 90;
 var w2y2 = 20;
 var w2x = 90;
-var w2y = 50;
+var w2y = 65;
 
 // coordinates of Bezier curve 3 (third stream from right)
 var w3x1 = 45;
@@ -34,7 +34,7 @@ var w3y1 = 50;
 var w3x2 = 80;
 var w3y2 = 40;
 var w3x = 75;
-var w3y = 60;
+var w3y = 70;
 
 // coordinates of Bezier curve 4 (leftmost stream)
 var w4x1 = 55;
@@ -42,7 +42,7 @@ var w4y1 = 65;
 var w4x2 = 60;
 var w4y2 = 60;
 var w4x = 60;
-var w4y = 70;
+var w4y = 75;
 
 var counter = 0;
 
