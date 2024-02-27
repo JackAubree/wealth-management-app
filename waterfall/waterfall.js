@@ -6,7 +6,7 @@ const ctx = canvas.getContext("2d");
 
 const foam = new Image();
 //array of images for foam splashing at base of waterfall
-var foamStages = ["https://jackaubree.github.io/wealth-management-app/foam-1-green.png", "https://jackaubree.github.io/wealth-management-app/foam-2-green.png", "https://jackaubree.github.io/wealth-management-app/foam-3-green.png", "https://jackaubree.github.io/wealth-management-app/foam-4-green.png", "https://jackaubree.github.io/wealth-management-app/foam-5-green.png"];
+var foamStages = ["foam-1-green.png", "foam-2-green.png", "foam-3-green.png", "foam-4-green.png", "foam-5-green.png"];
 var howManyFoams = foamStages.length;
 var i = 0;
 
